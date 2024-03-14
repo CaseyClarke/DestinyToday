@@ -1,5 +1,5 @@
 /.vscode
 /myVenv
-/cert.crt
-/cert.key
-db.sqlite3
+/DestinyToday/cert.crt
+/DestinyToday/cert.key
+/DestinyToday/db.sqlite3
