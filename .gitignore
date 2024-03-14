@@ -1,2 +1,5 @@
 /.vscode
 /myVenv
+/cert.crt
+/cert.key
+db.sqlite3
